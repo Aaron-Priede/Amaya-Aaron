@@ -117,7 +117,7 @@
 </p>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://www.spotify.com/us/account/overview/)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://www.spotify.com/us/account/Jeter/)
 
 ### 🚦 Stats
 
