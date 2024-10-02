@@ -117,7 +117,7 @@
 </p>
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dwg1mxbpamymsbay2aktvsqo8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0f0f0f&interchange=true&bar_color=4e7eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dwg1mxbpamymsbay2aktvsqo8&cover_image=true&theme=novatorem&show_offline=false&background_color=0f0f0f&interchange=true&bar_color=4e7eb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🚦 Stats
 
