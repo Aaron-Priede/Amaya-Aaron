@@ -5,7 +5,7 @@
   <img width="1000" height="240px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh4d3MzOTRhaWZwZDVxY3VrNmZkZ2E4d2g4ZXM0bzJoYnJhZGx6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bug2wkdhpf7kbFS/giphy.gif">
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Og Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> und ich
 
 <picture> <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 250px></picture>
 
