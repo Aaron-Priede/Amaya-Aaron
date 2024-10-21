@@ -1,4 +1,4 @@
-<h1 align="center">Hej , Jeg er Aaron Priede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hallo , Ich Bin Aaron Priede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
   <p align="center">
@@ -10,10 +10,10 @@
 <picture> <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 250px></picture>
 
 <br><br>
-- :technologist: Jeg elsker at bruge software som en løsning til alle `Problem`.
-- :computer: Jeg er konkurrencedygtig programmør på  `Leetcode` og `Virtual Code`.
-- :student: Jeg er i øjeblikket ved at lære `Computer Science` og `cybersikkerhed`.
-- :nerd_face: altid at  `lære nye ting`.
+- :technologist: Ich liebe es, Software als Lösung für alle zu nutzen `Problem`.
+- :computer: Ich bin ein wettbewerbsfähiger Programmierer bei  `Leetcode` og `Virtual Code`.
+- :student: Ich lerne gerade `Computer Science` og `Cybersicherheit`.
+- :nerd_face: immer das `Neues lernen`.
 
 ## 🛠️Mine færdigheder
 
