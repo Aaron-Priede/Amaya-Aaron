@@ -11,11 +11,11 @@
 
 <br><br>
 - :technologist: Ich liebe es, Software als Lösung für alle zu nutzen `Problem`.
-- :computer: Ich bin ein wettbewerbsfähiger Programmierer bei  `Leetcode` og `Virtual Code`.
-- :student: Ich lerne gerade `Computer Science` og `Cybersicherheit`.
+- :computer: Ich bin ein wettbewerbsfähiger Programmierer bei  `Leetcode` Und `Virtual Code`.
+- :student: Ich lerne gerade `Computer Science` Und `Cybersicherheit`.
 - :nerd_face: immer das `Neues lernen`.
 
-## 🛠️Mine færdigheder
+## 🛠️Meine Fähigkeiten
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
