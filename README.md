@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 250px></picture>
 
 <br><br>
-- :technologist: A like using software as a solution for everythin' `Problem`.
+- :technologist: A like using software as a solution for every `Problem`.
 - :computer: 'm a competitive programmer at  `Leetcode` and `Virtual Code`.
 - :student: 'm just learning `Computer Science` and `Cybersecurity`.
 - :nerd_face: always that `Learn new things`.
