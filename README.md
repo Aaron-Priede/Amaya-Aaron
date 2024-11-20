@@ -1,4 +1,4 @@
-<h1 align="center">Hallo , Ich Bin Aaron Priede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Howdy ,'m Aaron Priede<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
   <p align="center">
@@ -10,12 +10,12 @@
 <picture> <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 250px></picture>
 
 <br><br>
-- :technologist: Ich liebe es, Software als Lösung für alle zu nutzen `Problem`.
-- :computer: Ich bin ein wettbewerbsfähiger Programmierer bei  `Leetcode` Und `Virtual Code`.
-- :student: Ich lerne gerade `Computer Science` Und `Cybersicherheit`.
-- :nerd_face: immer das `Neues lernen`.
+- :technologist: I love using software as a solution for everyone `Problem`.
+- :computer: I am a competitive programmer at  `Leetcode` Und `Virtual Code`.
+- :student: I'm just learning `Computer Science` and `Cybersecurity`.
+- :nerd_face: always that `Learn new things`.
 
-## 🛠️Meine Fähigkeiten
+## 🛠️My skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
