@@ -10,9 +10,9 @@
 <picture> <img align="right" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = 250px></picture>
 
 <br><br>
-- :technologist: I love using software as a solution for everyone `Problem`.
-- :computer: I am a competitive programmer at  `Leetcode` Und `Virtual Code`.
-- :student: I'm just learning `Computer Science` and `Cybersecurity`.
+- :technologist: A like using software as a solution for everythin' `Problem`.
+- :computer: 'm a competitive programmer at  `Leetcode` and `Virtual Code`.
+- :student: 'm just learning `Computer Science` and `Cybersecurity`.
 - :nerd_face: always that `Learn new things`.
 
 ## 🛠️My skills
