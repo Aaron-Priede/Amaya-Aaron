@@ -122,8 +122,8 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Amaya-Aaron&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaya-Aaron&theme=highcontrast&layout=compact&langs_count=10" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Aaron-Priede&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Priede&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 	
 ## 🐍 A Snake Eating my Contributions Graph
